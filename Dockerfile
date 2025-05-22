@@ -2,7 +2,7 @@
 FROM node:18
 
 # Аппын ажлын директори
-WORKDIR /app
+WORKDIR /index
 
 # Package файлуудыг хуулна
 COPY package*.json ./
