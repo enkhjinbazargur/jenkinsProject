@@ -7,5 +7,5 @@ app.get('/', (req, res) => {
 });
 
 app.listen(PORT, () => {
-    console.log(`Сервер ${PORT} порт дээр ажиллаж байна`);
+    console.log(`Сервер ${PORT} порт дээр ажиллана`);
 });
